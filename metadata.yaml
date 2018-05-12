@@ -1,0 +1,26 @@
+_repo: Scientific-American-Supplement-No.-841-February-13-1892_15193
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Scientific American
+gutenberg_issued: '2005-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Periodicals'
+- !lcc 'T'
+title: Scientific American Supplement, No. 841, February 13, 1892
+url: http://www.gutenberg.org/ebooks/15193
